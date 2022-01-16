@@ -45,7 +45,43 @@ Header CSS
 /*-------------------------------
 Hero CSS
 -------------------------------*/
+.hero {
+   background-color: #1F2937;
+   display: flex;
+   justify-content: center;
+   align-items: flex-start;
+   padding: 40px;
+   color: #F9FAF8;
+   gap: 18px;
+}
 
+.hero div {
+   flex: 1;
+}
+
+.hero h1 {
+   font-size: 48px;
+   font-weight: 900;
+}
+
+.hero p {
+   font-size: 18px;
+   color: #E5E7EB;
+}
+
+.hero button {
+   padding: 10px 40px;
+   border: 0px;
+   border-radius: 10px;
+   background-color: #3882F6;
+   color: #F9FAF8;
+}
+
+.hero img {
+   height: 350px;
+   width: auto;
+   border-radius: 10px;
+}
 
 /*-------------------------------
 Content CSS
