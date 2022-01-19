@@ -91,7 +91,26 @@ Content CSS
 /*-------------------------------
 Testimonials CSS
 -------------------------------*/
+.testimonials {
+   background-color: #E5E7EB;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   color: #1F2937;
+   padding: 48px;
+}
 
+.testimonials .quote {
+   font-size: 36px;
+   font-weight: 100;
+   font-style: italic;
+}
+
+.testimonials .who {
+   align-self: center;
+   font-weight: bold;
+   font-size: 20px;
+}
 
 
 /*-------------------------------
@@ -102,7 +121,6 @@ Action Call CSS
 /*-------------------------------
 Footer CSS
 -------------------------------*/
-
 .footer {
    background-color: #000;
    display: flex;
