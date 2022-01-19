@@ -93,6 +93,7 @@ Testimonials CSS
 -------------------------------*/
 
 
+
 /*-------------------------------
 Action Call CSS
 -------------------------------*/
@@ -101,3 +102,16 @@ Action Call CSS
 /*-------------------------------
 Footer CSS
 -------------------------------*/
+
+.footer {
+   background-color: #000;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 24px auto;
+}
+
+.footer p {
+   font-size: 10px;
+   color: #E5E7EB;
+}
