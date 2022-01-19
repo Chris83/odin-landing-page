@@ -116,6 +116,34 @@ Testimonials CSS
 /*-------------------------------
 Action Call CSS
 -------------------------------*/
+.action-call {
+   background-color: #3882F6;
+   color: #F9FAF8;
+   border-radius: 10px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   gap: 48px;
+   margin: 64px;
+   padding: 12px 64px;
+}
+
+.call h2 {
+   margin-bottom: 0;
+}
+
+.call p {
+   margin-top: 4px;
+}
+
+.action-call button {
+   background-color: #3882F6;
+   color: #F9FAF8;
+   border: 2px solid;
+   border-radius: 5px;
+   padding: 6px 24px;
+   cursor: pointer;
+}
 
 
 /*-------------------------------
