@@ -1,6 +1,7 @@
 # odin-landing-page
 Landing Page project from the Odin Project fouondations path.
 
+# credits
 Images from https://unsplash.com
 Mountain picture by eberhard 🖐 grossgasteiger
 Fire picture by Max Kukurudziak
